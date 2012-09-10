@@ -10,4 +10,4 @@ Tüm ekran çözünürlüklerinde desteklenmiþtir.
 
 FLASH GELÝÞTÝRÝCÝLERÝ ÝÇÝN
 
-Nefes.fla dosyasýnda AS3 ile kodlanmýþ küçük bir kod parçasý var. "kodlar" adlý katmandan visible deðerini true yaparak ekranda Apple'ýn logosunu görebilirsiniz.
+Nefes.fla dosyasý Adobe Flash Pro. CS5.5 ile yapýlmýþtýr. Nefes.fla dosyasýnda AS3 ile kodlanmýþ küçük bir kod parçasý var. "kodlar" adlý katmandan visible deðerini true yaparak ekranda Apple'ýn logosunu da görebilirsiniz.
